@@ -23,5 +23,5 @@ public class JavaApplication2 {
         JOptionPane.showInputDialog("es el primer cambio que se realiza");
         JOptionPane.showInputDialog("Hola Prros");
     }
-    
+    1263
 }
