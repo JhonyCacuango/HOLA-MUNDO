@@ -5,6 +5,8 @@
  */
 package javaapplication2;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Estudiante
@@ -18,6 +20,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         
         //cambio
+        JOptionPane.showInputDialog("es el primer cambio que se realiza");
     }
     
 }
