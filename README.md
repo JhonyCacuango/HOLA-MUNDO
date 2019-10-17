@@ -5,7 +5,6 @@ que mas ve
 
 Hola x2
 
-# Pumi Gay
 
 
 
